@@ -1,0 +1,52 @@
+Obama,Romney,States,Votes
+0,1,Alabama,9
+0,1,Alaska,3
+0.062,0.938,Arizona,11
+0,1,Arkansas,6
+1,0,California,55
+0.807,0.193,Colorado,9
+1,0,Connecticut,7
+1,0,Delaware,3
+1,0,District of Columbia,3
+0.72,0.28,Florida,29
+0.004,0.996,Georgia,16
+1,0,Hawaii,4
+0,1,Idaho,4
+1,0,Illinois,20
+0.036,0.964,Indiana,11
+0.837,0.163,Iowa,6
+0,1,Kansas,6
+0,1,Kentucky,8
+0,1,Louisiana,8
+1,0,Maine,4
+1,0,Maryland,10
+1,0,Massachusetts,11
+0.987,0.013,Michigan,16
+0.982,0.018,Minnesota,10
+0,1,Mississippi,6
+0.074,0.926,Missouri,10
+0.046,0.954,Montana,3
+0,1,Nebraska,5
+0.851,0.149,Nevada,6
+0.857,0.143,New Hampshire,4
+0.998,0.002,New Jersey,14
+0.985,0.015,New Mexico,5
+1,0,New York,29
+0.349,0.651,North Carolina,15
+0.025,0.975,North Dakota,3
+0.89,0.11,Ohio,18
+0,1,Oklahoma,7
+0.976,0.024,Oregon,7
+0.978,0.022,Pennsylvania,20
+1,0,Rhode Island,4
+0,1,South Carolina,9
+0.001,0.999,South Dakota,3
+0.001,0.999,Tennessee,11
+0,1,Texas,38
+0,1,Utah,6
+1,0,Vermont,3
+0.798,0.202,Virginia,13
+0.999,0.001,Washington,12
+0.002,0.998,West Virginia,5
+0.925,0.075,Wisconsin,10
+0,1,Wyoming,3
